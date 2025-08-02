@@ -9,7 +9,6 @@ Django Month 5 Test
  🔧 Вариант 1: Без Docker (локально)
 
 1. Клонируй репозиторий:
-   ```bash
    git clone https://github.com/your-username/month5_project.git
    cd month5_project
 
